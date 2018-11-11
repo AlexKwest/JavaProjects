@@ -1,4 +1,5 @@
 function NewFunction ()  {
-Consoles.log("sdf");
+consoles.log("sdf");
 }
+
 NewFunction();
